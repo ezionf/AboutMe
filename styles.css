@@ -27,9 +27,10 @@ h2 {
 p,li {
     font-size: 18px;
 }
-#hobbies {
+.hobbies {
     background-color: darkviolet;
     color: gainsboro;
+    
 }
 footer {
     text-align: center;
