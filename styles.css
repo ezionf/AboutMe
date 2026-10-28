@@ -1,0 +1,36 @@
+main {
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+}
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: gainsboro;
+    color: midnightblue; 
+}
+header {
+    background-color: indigo;
+    color: wheat;
+    text-align: center;
+}
+header h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: wheat;
+}
+h2 {
+    color:cornflowerblue;
+    font-size: 28px;
+}
+p,li {
+    font-size: 18px;
+}
+footer {
+    text-align: center;
+    font-size: 14px;
+    color:gray;
+}
+footer a{
+    color: cornflowerblue;
+}
